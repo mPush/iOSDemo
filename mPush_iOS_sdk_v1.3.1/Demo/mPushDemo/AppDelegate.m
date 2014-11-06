@@ -1,9 +1,4 @@
-//
-//  AppDelegate.m
-//  mPushDemo
-// 
-//  Copyright (c) 2014年 mRocker. All rights reserved.
-//
+ 
 
 #import "AppDelegate.h"
 #import "PushManager.h"

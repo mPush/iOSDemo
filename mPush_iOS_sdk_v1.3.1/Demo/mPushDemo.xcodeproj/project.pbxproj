@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		000574061A039EC100280604 /* libmPushSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D610B19B6C25700618262 /* libmPushSDK.a */; };
+		007C6F3D1A0B736600CA9DDB /* libmPushSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D610B19B6C25700618262 /* libmPushSDK.a */; };
 		008D60CE19B6C20100618262 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60CD19B6C20100618262 /* Foundation.framework */; };
 		008D60D019B6C20100618262 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60CF19B6C20100618262 /* CoreGraphics.framework */; };
 		008D60D219B6C20100618262 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60D119B6C20100618262 /* UIKit.framework */; };
@@ -65,7 +65,7 @@
 				008D610F19B6C2B200618262 /* StoreKit.framework in Frameworks */,
 				008D60D019B6C20100618262 /* CoreGraphics.framework in Frameworks */,
 				008D60D219B6C20100618262 /* UIKit.framework in Frameworks */,
-				000574061A039EC100280604 /* libmPushSDK.a in Frameworks */,
+				007C6F3D1A0B736600CA9DDB /* libmPushSDK.a in Frameworks */,
 				008D60CE19B6C20100618262 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -313,8 +313,7 @@
 				INFOPLIST_FILE = "mPushDemo/mPushDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.3.0/lib,
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.3.1/lib,
+					/Users/Robin/Documents/GitHubWorkCopy/iOSMPushDemo/mPush_iOS_sdk_v1.3.1/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "22ae3063-892b-44e3-b5b9-9cc3d147ee27";
@@ -334,8 +333,7 @@
 				INFOPLIST_FILE = "mPushDemo/mPushDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.3.0/lib,
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.3.1/lib,
+					/Users/Robin/Documents/GitHubWorkCopy/iOSMPushDemo/mPush_iOS_sdk_v1.3.1/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "22ae3063-892b-44e3-b5b9-9cc3d147ee27";

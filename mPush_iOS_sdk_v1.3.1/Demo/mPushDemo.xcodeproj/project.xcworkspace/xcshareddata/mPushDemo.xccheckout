@@ -10,31 +10,31 @@
 	<string>mPushDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</key>
-		<string>http://git.tsingyuan.cn/git/root/mpush_doc.git</string>
+		<key>934AF47B10D49010FC10D5A80BEC210E80C2DF4F</key>
+		<string>https://github.com/RobinChao/iOSDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>sdk/ios/mPush_iOS_sdk_v1.3.1/Demo/mPushDemo.xcodeproj</string>
+	<string>mPush_iOS_sdk_v1.3.1/Demo/mPushDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</key>
-		<string>../../../../../..</string>
+		<key>934AF47B10D49010FC10D5A80BEC210E80C2DF4F</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://git.tsingyuan.cn/git/root/mpush_doc.git</string>
+	<string>https://github.com/RobinChao/iOSDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</string>
+	<string>934AF47B10D49010FC10D5A80BEC210E80C2DF4F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</string>
+			<string>934AF47B10D49010FC10D5A80BEC210E80C2DF4F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>MPush_Files</string>
+			<string>iOSMPushDemo</string>
 		</dict>
 	</array>
 </dict>
