@@ -1,9 +1,4 @@
-//
-//  DemoViewController.m
-//  mPushDemo
-// 
-//  Copyright (c) 2014年 mRocker. All rights reserved.
-//
+ 
 
 #import "DemoViewController.h"
 
