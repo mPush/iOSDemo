@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B11FD09-14D5-46E2-9CDC-EC0C4CAA8AFE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>mPushDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</key>
+		<string>http://git.tsingyuan.cn/git/root/mpush_doc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sdk/ios/mPush_iOS_sdk_v1.4.5/Demo/mPushDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://git.tsingyuan.cn/git/root/mpush_doc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD341DF9D9FE9D191D5244B393A65C9C6D043A6D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MPush_Files</string>
+		</dict>
+	</array>
+</dict>
+</plist>
