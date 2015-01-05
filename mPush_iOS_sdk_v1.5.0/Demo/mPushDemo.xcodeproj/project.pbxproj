@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00632C421A4A5DEF0040878C /* libmPushSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00A42D1B1A37F989000BDFCB /* libmPushSDK.a */; };
 		008D60CE19B6C20100618262 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60CD19B6C20100618262 /* Foundation.framework */; };
 		008D60D019B6C20100618262 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60CF19B6C20100618262 /* CoreGraphics.framework */; };
 		008D60D219B6C20100618262 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D60D119B6C20100618262 /* UIKit.framework */; };
@@ -24,6 +23,7 @@
 		008D611719B6C2CB00618262 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D611619B6C2CB00618262 /* Security.framework */; };
 		008D611919B6C2D100618262 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008D611819B6C2D100618262 /* SystemConfiguration.framework */; };
 		008F79B91A2707FA00664ED8 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008F79B81A2707FA00664ED8 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		00F6218D1A5A9373004BD7A0 /* libmPushSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00A42D1B1A37F989000BDFCB /* libmPushSDK.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,7 +61,7 @@
 			files = (
 				008F79B91A2707FA00664ED8 /* AdSupport.framework in Frameworks */,
 				008D611919B6C2D100618262 /* SystemConfiguration.framework in Frameworks */,
-				00632C421A4A5DEF0040878C /* libmPushSDK.a in Frameworks */,
+				00F6218D1A5A9373004BD7A0 /* libmPushSDK.a in Frameworks */,
 				008D611719B6C2CB00618262 /* Security.framework in Frameworks */,
 				008D611519B6C2C600618262 /* libz.dylib in Frameworks */,
 				008D611319B6C2BD00618262 /* CoreTelephony.framework in Frameworks */,
@@ -317,7 +317,7 @@
 				INFOPLIST_FILE = "mPushDemo/mPushDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.4.5/lib,
+					/Users/Robin/Documents/GitHubWorkCopy/iOSMPushDemo/mPush_iOS_sdk_v1.5.0/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d2348f75-d6a0-482a-ab14-ed303de3d66b";
@@ -337,7 +337,7 @@
 				INFOPLIST_FILE = "mPushDemo/mPushDemo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					/Users/Robin/Documents/MPush_Files/sdk/ios/mPush_iOS_sdk_v1.4.5/lib,
+					/Users/Robin/Documents/GitHubWorkCopy/iOSMPushDemo/mPush_iOS_sdk_v1.5.0/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "d2348f75-d6a0-482a-ab14-ed303de3d66b";
